@@ -1,0 +1,282 @@
+sequence_nr: 65
+last_dot_nr: 1855
+wifi_ap {
+  bssid: "58:ef:68:4f:62:760"
+  ssid: "Simulator Lab"
+  capabilities: "[WPA2-PSK-CCMP][WPS][ESS]"
+  frequency: 2462
+  rssi: -71
+  timestamp: 287222561419
+}
+wifi_ap {
+  bssid: "00:3a:7d:bc:d1:110"
+  ssid: "eduroam"
+  capabilities: "[WPA2-EAP-CCMP][ESS]"
+  frequency: 2412
+  rssi: -61
+  timestamp: 287223391375
+}
+wifi_ap {
+  bssid: "00:9a:cd:9f:47:d40"
+  ssid: "tyler"
+  capabilities: "[WPA2-PSK-CCMP][WPS][ESS]"
+  frequency: 2437
+  rssi: -80
+  timestamp: 287222561389
+}
+wifi_ap {
+  bssid: "00:35:1a:77:6e:e10"
+  ssid: "eduroam"
+  capabilities: "[WPA2-EAP-CCMP][ESS]"
+  frequency: 2412
+  rssi: -85
+  timestamp: 287222561358
+}
+wifi_ap {
+  bssid: "00:35:1a:77:6e:e00"
+  ssid: "MacSecure"
+  capabilities: "[WPA2-EAP-CCMP][ESS]"
+  frequency: 2412
+  rssi: -85
+  timestamp: 287220918414
+}
+wifi_ap {
+  bssid: "5c:d9:98:5c:9b:080"
+  ssid: "COMPENG_4DN4"
+  capabilities: "[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]"
+  frequency: 2462
+  rssi: -89
+  timestamp: 287223391467
+}
+wifi_ap {
+  bssid: "1c:af:f7:d6:a6:d30"
+  ssid: "IEEE"
+  capabilities: "[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]"
+  frequency: 2432
+  rssi: -89
+  timestamp: 287222561389
+}
+wifi_ap {
+  bssid: "40:9b:cd:9d:2f:f00"
+  ssid: "ITB135"
+  capabilities: "[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]"
+  frequency: 2462
+  rssi: -71
+  timestamp: 287223391436
+}
+wifi_ap {
+  bssid: "92:cd:b6:2d:47:b60"
+  ssid: "DIRECT-b6-HP M203 LaserJet"
+  capabilities: "[WPA2-PSK-CCMP][WPS][ESS][P2P]"
+  frequency: 2437
+  rssi: -91
+  timestamp: 287218570910
+}
+wifi_ap {
+  bssid: "62:01:94:09:c3:550"
+  ssid: "ESP_09C355"
+  capabilities: "[ESS]"
+  frequency: 2437
+  rssi: -92
+  timestamp: 287221757708
+}
+wifi_ap {
+  bssid: "62:01:94:09:c3:b80"
+  ssid: "ESP_09C3B8"
+  capabilities: "[ESS]"
+  frequency: 2437
+  rssi: -89
+  timestamp: 287221757525
+}
+wifi_ap {
+  bssid: "00:9a:cd:9f:47:d50"
+  ssid: ""
+  capabilities: "[ESS]"
+  frequency: 2437
+  rssi: -83
+  timestamp: 287223391436
+}
+wifi_ap {
+  bssid: "62:01:94:09:bf:4d0"
+  ssid: "ESP_09BF4D"
+  capabilities: "[ESS]"
+  frequency: 2437
+  rssi: -89
+  timestamp: 287220918475
+}
+wifi_ap {
+  bssid: "00:35:1a:bc:85:e10"
+  ssid: "eduroam"
+  capabilities: "[WPA2-EAP-CCMP][ESS]"
+  frequency: 2437
+  rssi: -86
+  timestamp: 287220918444
+}
+wifi_ap {
+  bssid: "00:35:1a:bc:85:e00"
+  ssid: "MacSecure"
+  capabilities: "[WPA2-EAP-CCMP][ESS]"
+  frequency: 2437
+  rssi: -85
+  timestamp: 287220918444
+}
+wifi_ap {
+  bssid: "62:01:94:09:be:d30"
+  ssid: "ESP_09BED3"
+  capabilities: "[ESS]"
+  frequency: 2437
+  rssi: -89
+  timestamp: 287219364245
+}
+wifi_ap {
+  bssid: "5e:cf:7f:d2:df:010"
+  ssid: "ESP_D2DF01"
+  capabilities: "[ESS]"
+  frequency: 2437
+  rssi: -92
+  timestamp: 287222561389
+}
+wifi_ap {
+  bssid: "62:01:94:09:c8:470"
+  ssid: "ESP_09C847"
+  capabilities: "[ESS]"
+  frequency: 2437
+  rssi: -89
+  timestamp: 287223391406
+}
+wifi_ap {
+  bssid: "62:01:94:09:c4:b70"
+  ssid: "ESP_09C4B7"
+  capabilities: "[ESS]"
+  frequency: 2437
+  rssi: -92
+  timestamp: 287220169726
+}
+wifi_ap {
+  bssid: "00:35:1a:bc:18:410"
+  ssid: "eduroam"
+  capabilities: "[WPA2-EAP-CCMP][ESS]"
+  frequency: 2412
+  rssi: -83
+  timestamp: 287220169635
+}
+wifi_ap {
+  bssid: "00:35:1a:b1:8f:a10"
+  ssid: "eduroam"
+  capabilities: "[WPA2-EAP-CCMP][ESS]"
+  frequency: 2462
+  rssi: -81
+  timestamp: 287221757739
+}
+wifi_ap {
+  bssid: "00:35:1a:b1:8f:a00"
+  ssid: "MacSecure"
+  capabilities: "[WPA2-EAP-CCMP][ESS]"
+  frequency: 2462
+  rssi: -81
+  timestamp: 287223391467
+}
+wifi_ap {
+  bssid: "00:35:1a:08:04:c00"
+  ssid: "MacSecure"
+  capabilities: "[WPA2-EAP-CCMP][ESS]"
+  frequency: 2462
+  rssi: -68
+  timestamp: 287223391436
+}
+wifi_ap {
+  bssid: "84:1b:5e:49:28:9a0"
+  ssid: "Happy"
+  capabilities: "[WPA2-PSK-CCMP][ESS]"
+  frequency: 2412
+  rssi: -62
+  timestamp: 287223391375
+}
+wifi_ap {
+  bssid: "00:35:1a:08:04:c10"
+  ssid: "eduroam"
+  capabilities: "[WPA2-EAP-CCMP][ESS]"
+  frequency: 2462
+  rssi: -67
+  timestamp: 287223391467
+}
+wifi_ap {
+  bssid: "6c:b0:ce:f5:1e:1d0"
+  ssid: ""
+  capabilities: "[WPA2-PSK-CCMP][ESS]"
+  frequency: 2437
+  rssi: -77
+  timestamp: 287223391406
+}
+wifi_ap {
+  bssid: "00:35:1a:bc:18:400"
+  ssid: "MacSecure"
+  capabilities: "[WPA2-EAP-CCMP][ESS]"
+  frequency: 2412
+  rssi: -82
+  timestamp: 287220169574
+}
+wifi_ap {
+  bssid: "c8:d7:19:53:81:c50"
+  ssid: "Linksys17022"
+  capabilities: "[WPA2-PSK-CCMP][WPS][ESS]"
+  frequency: 2417
+  rssi: -92
+  timestamp: 287218570880
+}
+wifi_ap {
+  bssid: "58:6d:8f:ee:f7:330"
+  ssid: "Linksys01151"
+  capabilities: "[WPA2-PSK-CCMP][ESS]"
+  frequency: 2457
+  rssi: -83
+  timestamp: 287223391436
+}
+wifi_ap {
+  bssid: "00:11:92:50:1b:000"
+  ssid: ""
+  capabilities: "[ESS]"
+  frequency: 2427
+  rssi: -92
+  timestamp: 287221757495
+}
+wifi_ap {
+  bssid: "fc:b4:e6:2e:bb:f60"
+  ssid: "Proj1671_7ZKA2SinKPPFK1uN2ReJXw"
+  capabilities: "[WPA2-PSK-CCMP][ESS]"
+  frequency: 2462
+  rssi: -80
+  timestamp: 287222561419
+}
+wifi_ap {
+  bssid: "2c:d0:2d:3e:e5:400"
+  ssid: "MacSecure"
+  capabilities: "[WPA2-EAP-CCMP][ESS]"
+  frequency: 2412
+  rssi: -77
+  timestamp: 287223391406
+}
+wifi_ap {
+  bssid: "2c:d0:2d:3e:e5:410"
+  ssid: "eduroam"
+  capabilities: "[WPA2-EAP-CCMP][ESS]"
+  frequency: 2412
+  rssi: -77
+  timestamp: 287223391406
+}
+wifi_ap {
+  bssid: "28:6f:7f:e2:02:a00"
+  ssid: "MacSecure"
+  capabilities: "[WPA2-EAP-CCMP][ESS]"
+  frequency: 2437
+  rssi: -78
+  timestamp: 287223391436
+}
+wifi_ap {
+  bssid: "28:6f:7f:e2:02:a10"
+  ssid: "eduroam"
+  capabilities: "[WPA2-EAP-CCMP][ESS]"
+  frequency: 2437
+  rssi: -78
+  timestamp: 287223391406
+}
